@@ -1,0 +1,14 @@
+# Install a PyTorch build and matching torchvision build for your platform and CUDA version.
+torch>=2.6
+torchvision>=0.21
+accelerate>=1.4,<2
+bert-score==0.3.13
+datasets>=3,<5
+nltk>=3.9,<4
+numpy>=1.24,<3
+Pillow>=10
+pyarrow>=21,<23
+qwen-vl-utils>=0.0.10,<0.1
+tqdm>=4.66,<5
+transformers>=4.56.1,<5
+trl==0.24.0
